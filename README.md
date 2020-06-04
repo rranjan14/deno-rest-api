@@ -13,5 +13,5 @@ A basic restful api built using deno.
   - Extract files.
   - Open the file in terminal.
   # Run the following command:
-    - denon run --allow-net --allow-env --allow-write --allow-read --allow-plugin --unstable server.ts.
+    denon run --allow-net --allow-env --allow-write --allow-read --allow-plugin --unstable server.ts.
     
